@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import Navbar from './Components/Navbar'
-import Hero from './Components/hero'
+import Navbar from 'snap/src/Components/Navbar.jsx'
+import Hero from 'snap/src/Components/hero.jsx'
 
 
 
