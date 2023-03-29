@@ -1,10 +1,9 @@
 import React from 'react'
-import image from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/image-hero-desktop.png'
-import databiz from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/client-databiz.svg'
-import audiophile from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/client-audiophile.svg'
-import maker from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/client-maker.svg'
-import meet from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/client-meet.svg'
-import mobile from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/image-hero-mobile.png'
+import databiz from '../assets/images/client-databiz.svg'
+import audiophile from '../assets/images/client-audiophile.svg'
+import maker from '../assets/images/client-maker.svg'
+import meet from '../assets/images/client-meet.svg'
+import mobile from '../assets/images/image-hero-mobile.png'
 
 const Hero = () => {
   return (
