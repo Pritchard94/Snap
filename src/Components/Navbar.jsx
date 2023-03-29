@@ -1,6 +1,5 @@
 import React,{useState} from 'react'
-import logo from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/logo.svg'
-import arrowdown from '/Users/bigmac/Desktop/Programming/Snap/snap/src/assets/images/icon-arrow-down.svg'
+import logo from '../assets/images/logo.svg'
 import {AiOutlineMenu, AiOutlineClose} from 'react-icons/ai'
 import {RxCaretDown, RxCaretUp} from 'react-icons/rx'
 
